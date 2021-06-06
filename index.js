@@ -26,7 +26,7 @@ var questions=[{
 },
 {
   question:"My fevorite superhero would be?",
-  answer:"Hardik"
+  answer:"Hardik Sharma"
 }]
 //loop
 for(var i=0;i<questions.length;i++)
