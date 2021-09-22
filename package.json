@@ -1,14 +1,16 @@
+
 {
-  "name": "calculatorapp",
+  "name": "how-well-do-you-know-me",
   "version": "1.0.0",
-  "description": "My first Node and Express BMI Calculator",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "Rutuja Chandgude",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "readline-sync": "^1.4.10"
   }
 }
