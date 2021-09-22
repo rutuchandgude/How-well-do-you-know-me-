@@ -25,9 +25,42 @@ var questions=[{
   answer:"Kopargaon"
 },
 {
-  question:"My fevorite superhero would be?",
-  answer:"Hardik Sharma"
-}]
+  question:"My fevorite hero would be? ",
+  answer:"Hardik sharma"
+},
+{
+  question:"My nick would be? ",
+  answer:"Rutu"
+},
+{
+  question:"My fevorite dish would be? ",
+  answer:"Pani puri"
+},
+{
+  question:"My ideal would be? ",
+  answer:"Chatrapati shivaji maharaj"
+},
+{
+  question:"My fevorite heroine would be? ",
+  answer:"Mithila palkar"
+},
+{
+  question:"My fevorite drink would be? ",
+  answer:"Tea"
+},
+{
+  question:"My fevorite book would be? ",
+  answer:"Think and grow rich"
+},
+{
+  question:"My fevorite pet would be? ",
+  answer:"Cat"
+},
+{
+  question:"Do I prefer peace and quiet? ",
+  answer:"Yes"
+}
+]
 //loop
 for(var i=0;i<questions.length;i++)
 {
